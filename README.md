@@ -1,4 +1,4 @@
-# Hangman Programação Defensica
+# Hangman Programação Defensiva
 
 Jogo: Forca.
 O jogador deve acertar a palavra proposta.
